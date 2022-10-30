@@ -1,2 +1,1 @@
-# stats_for_ds
-Statistics for Data Science
+# Statistics for Data Science
